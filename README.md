@@ -3,8 +3,7 @@
 <img width="4032" height="1806" alt="image" src="https://github.com/user-attachments/assets/b509804d-a7fd-40b6-90e4-395dbb1e4971" />
 <img width="3875" height="2268" alt="image" src="https://github.com/user-attachments/assets/ef5ebae6-144b-4c30-9f44-d855111c50bc" />
 <img width="2050" height="2268" alt="image" src="https://github.com/user-attachments/assets/f7ef3d00-aeaf-48bd-8b3c-938c458a72b4" />
-### Colaborador Adicional:
-* **Cristian Fernando Méndez Pinto** – *Rol: Alertas / Revisor y Pruebas del Sistema*
+### Colaborador Adicional:* **Cristian Fernando Méndez Pinto** – *Rol: Alertas / Revisor y Pruebas del Sistema*
 ---
 
 ##  Estructura del Proyecto
