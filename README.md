@@ -1,23 +1,8 @@
-# Sistema Integral de Gestión de Clientes, Servicios y Reservas - Software FJ
-
-##  Descripción del Proyecto
-Sistema orientado a objetos desarrollado en **Python** para la empresa **Software FJ**, diseñado para gestionar clientes, servicios especializados (salas, alquiler de equipos y asesorías) y reservas. 
-
-El proyecto demuestra una arquitectura modular sin uso de motores de bases de datos, utilizando estructuras de memoria (listas y objetos) y almacenamiento persistente en archivos para el registro de eventos y errores (**logging**).
-
----
-
-##  Características Técnicas
-- **Programación Orientada a Objetos (POO):**
-  - **Abstracción:** Uso de la clase abstracta `EntidadBase` y la clase abstracta `Servicio` mediante el módulo `abc`.
-  - **Encapsulación:** Atributos protegidos con propiedades (`@property` y `@setter`) para validación estricta de datos personales.
-  - **Herencia y Polimorfismo:** Especializaciones de servicio (`ReservaSala`, `AlquilerEquipo`, `AsesoriaEspecializada`) que redefinen la lógica de costo y detalles.
-  - **Sobrecarga de Métodos:** Variantes parametrizadas para cálculo de costos con impuestos, descuentos, horas y recargos.
-- **Manejo Avanzado de Excepciones:**
-  - Jerarquía de excepciones personalizadas (`SoftwareFJError`, `ClienteNoValidoError`, `ServicioNoDisponibleError`, `ErrorReservaError`).
-  - Bloques estructurados `try / except / else / finally`.
-  - Registro automatizado de trazas y eventos en `logs/sistema.log`.
-
+<img width="4032" height="1173" alt="image" src="https://github.com/user-attachments/assets/3197a0a3-0a8e-4d25-8e9a-315f00e59800" />
+<img width="4032" height="1935" alt="image" src="https://github.com/user-attachments/assets/ff97fbb4-de40-47d1-8bbb-2bbf80021baf" />
+<img width="4032" height="1806" alt="image" src="https://github.com/user-attachments/assets/b509804d-a7fd-40b6-90e4-395dbb1e4971" />
+<img width="3875" height="2268" alt="image" src="https://github.com/user-attachments/assets/ef5ebae6-144b-4c30-9f44-d855111c50bc" />
+<img width="2050" height="2268" alt="image" src="https://github.com/user-attachments/assets/f7ef3d00-aeaf-48bd-8b3c-938c458a72b4" />
 ---
 
 ##  Estructura del Proyecto
